@@ -1,0 +1,14 @@
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\bin\Debug\net8.0\Q11.exe
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\bin\Debug\net8.0\Q11.deps.json
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\bin\Debug\net8.0\Q11.runtimeconfig.json
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\bin\Debug\net8.0\Q11.dll
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\bin\Debug\net8.0\Q11.pdb
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\Q11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\Q11.AssemblyInfoInputs.cache
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\Q11.AssemblyInfo.cs
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\Q11.csproj.CoreCompileInputs.cache
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\Q11.dll
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\refint\Q11.dll
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\Q11.pdb
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\Q11.genruntimeconfig.cache
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Q11\obj\Debug\net8.0\ref\Q11.dll

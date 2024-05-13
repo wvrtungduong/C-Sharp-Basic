@@ -1,0 +1,14 @@
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\bin\Debug\net8.0\Main.exe
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\bin\Debug\net8.0\Main.dll
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\Main.dll
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\wvrtu\Documents\Visual Studio 2022\Basic\Main\obj\Debug\net8.0\ref\Main.dll
